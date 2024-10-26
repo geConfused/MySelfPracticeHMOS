@@ -1,2 +1,2 @@
 # MySelfPracticeHMOS
-hm system practice project
+This project is practis myself ...
